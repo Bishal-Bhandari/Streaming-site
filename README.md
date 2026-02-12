@@ -1,4 +1,4 @@
-# 🎬 Video Streaming Website
+# 🎬 Video Streaming Website - CHILLFLIX
 
 A full-stack video streaming platform built with:
 
